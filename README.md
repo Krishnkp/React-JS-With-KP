@@ -48,8 +48,8 @@ https://stackoverflow.com/questions/32426601/how-can-i-completely-uninstall-node
 
 =========================== Extension ======================
 
-Thunder Client
-Prettier - Code formatter
-Live Server
-ES7 React/Redux/GraphQL/React-Native snippets
+Thunder Client,
+Prettier - Code formatted,
+Live Server,
+ES7 React/Redux/GraphQL/React-Native snippets,
 Bracket Pair Colorization Toggler
