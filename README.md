@@ -1,5 +1,6 @@
 # React-JS-With-KP
 React js projects for beginner
+
 ======================= Install Nodejs and NPM ===================================
 
 sudo apt update
@@ -40,7 +41,7 @@ npx create-react-app jsxreact
 npx create-react-app project-01-react
 
 
-======== How can I completely uninstall nodejs, npm and node in Ubuntu ==================
+============ How can I completely uninstall nodejs, npm and node in Ubuntu ==================
 
 https://stackoverflow.com/questions/32426601/how-can-i-completely-uninstall-nodejs-npm-and-node-in-ubuntu
 
