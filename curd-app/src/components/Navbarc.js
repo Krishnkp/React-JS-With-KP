@@ -195,7 +195,7 @@ function Navbarc() {
           <div></div>
           <div></div>
         </div>
-        <Link to="/create" target="blank" className="hex-content">
+        <Link to="/create" className="hex-content">
           <span className="hex-content-inner">
             <span className="icon">
               <i className="fa fa-universal-access"></i>
